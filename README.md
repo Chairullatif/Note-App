@@ -1,2 +1,4 @@
 # Note-App
-Aplikasi catatan yang dibuat ketika mengikuti kelas Android Jetpack Dicoding
+Aplikasi Note App ini dibuat ketika mengikuti kelas Belajar Android Jetpack Pro
+
+<img src="https://github.com/Chairullatif/Picture/blob/main/Note-App/Note-App.gif?raw=true" width="280px">
